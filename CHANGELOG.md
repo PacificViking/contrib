@@ -1,5 +1,9 @@
 # Changelog
 
+### 2025-01-21
+
+grimblast: allow opening file directory when clicking on notification when --openfile is set
+
 ### 2024-12-01
 
 grimblast: fix window selection on fullscreen
